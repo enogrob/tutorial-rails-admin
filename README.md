@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
-[ ] Série 1/5 - Criando um sistema Administrativo Completo com Rails Admin 24:33
+[x] Série 1/5 - Criando um sistema Administrativo Completo com Rails Admin 24:33
 [ ] Série 2/5 - Criando um sistema Administrativo Completo com Rails Admin 22:47
 [ ] Série 3/5 - Criando um sistema Administrativo Completo com Rails Admin 37:23
 [ ] Série 4/5 - Criando um sistema Administrativo Completo com Rails Admin 37:50
